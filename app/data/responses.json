@@ -1,0 +1,21 @@
+{
+    "greeting": [
+        "Hello! How can I help you?",
+        "Hi there!"
+    ],
+
+    "goodbye": [
+        "Goodbye!",
+        "See you later!"
+    ],
+
+    "thanks": [
+        "You're welcome!",
+        "Happy to help!"
+    ],
+
+    "unknown": [
+        "Sorry, I don't understand.",
+        "Could you rephrase that?"
+    ]
+}

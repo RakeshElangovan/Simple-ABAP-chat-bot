@@ -1,0 +1,46 @@
+[
+    {
+        "user": "Hi ",
+        "bot": "Hello! How can I help you?"
+    },
+    {
+        "user": "Do you know something in ABAP ?",
+        "bot": "Hello! How can I help you?"
+    },
+    {
+        "user": "Do you know anything in ABAP ?",
+        "bot": "Hi there!"
+    },
+    {
+        "user": "Do you speak anything else ?",
+        "bot": "Hello! How can I help you?"
+    },
+    {
+        "user": "Hello, how can you help me with ABAP?",
+        "bot": "Hello! How can I help you?"
+    },
+    {
+        "user": "Hi",
+        "bot": "Hi there!"
+    },
+    {
+        "user": "Are you an abaper",
+        "bot": "Could you rephrase that?"
+    },
+    {
+        "user": "Do you work on abap ?.",
+        "bot": "Could you rephrase that?"
+    },
+    {
+        "user": "which LLM do you use?.",
+        "bot": "Hi there!"
+    },
+    {
+        "user": "What is the difference between 1 and 3",
+        "bot": "Could you rephrase that?"
+    },
+    {
+        "user": "hi",
+        "bot": "Hi there!"
+    }
+]
